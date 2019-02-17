@@ -15,3 +15,4 @@ else if(a===b || b===c || a===c) {
 }else{
   alert(scalene);
 }
+}

@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <body>
     <link rel="stylesheet" href="css/style.css">
+    <title>Triangle Tracker.</title>
+  </head>
     <h1>TRIANGLE TRACKER</h1>
     <h3>TYPES OF TRIANGLES BASED ON LENGTH</h3>
     <h4>EQUILATERAL TRIANGLES</h4>
@@ -11,15 +14,12 @@
     <h4>SCALENE TRIANGLES</h4>
     <p>Scalene triangles are triangles with sides of different length.</p>
     <img src="http://www.geom.uiuc.edu/~wanous/exampletriangles.GIF">
-    <centre><input id="data1" type="number" name="" value=""></centre>
-    <label for="">height</label>
-    <input id="data2" type="number" name="" value="">
-    <label for="">length</label>
-    <input type="number" name="" value="">
-    <label for="">hypotenuse</label>
-    <button type="button" name="button" onclick="triangleTracker()">button</button>
-
-    <script src="JS/csript.js"></script>
-
-</head>
+    <form>
+       hypotenuse:<input type="number" name="num1" id="hypotenuse"><br>
+       length:<input type="number" name="num2" id="length"><br>
+       height:<input type="number" name="num3" id="height"><br>
+       <input type="submit" value="Submit" onClick=triangleTracker()>
+   </form>
+ </body>
+  <script src="JS/script.js"></script>
 </html>

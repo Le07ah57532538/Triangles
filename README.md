@@ -1,4 +1,4 @@
-# Triangle Tracer
+# Triangle Tracker
 #### This about an application to help us know whether a triangle is isosceles,equilateral,scalene or NOT a triangle, 18th February,2019
 #### By **LEAH GAKII**
 ## Description

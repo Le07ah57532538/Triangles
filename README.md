@@ -17,4 +17,4 @@ The use of JSfiddle is more friendly since it makes it easy for one to highlight
 Incase of an issues,question, ideas you want to share or a concern you can always contact me at leahgakii74@gmail.com .
 ### License
 
-Copyright (c) {year} **{LeahGakii}**
+Copyright (c) 2019 **LeahGakii**

@@ -8,7 +8,12 @@ Triangle Tracker is an application to help us know whether a triangle is isoscel
 * CSS
 * html
 * atom
-
+## BDD
+| behaviour                   | behaviour input | behaviour output |   |   |
+|-----------------------------|-----------------|------------------|---|---|
+| All sides are equal         | 2 2 2           | Equilateral      |   |   |
+| None of the sides are equal | 3 5 6           | Scalene          |   |   |
+| Two sides are equal         | 4 4 0           | Isosceles        |   |   |
 ## Known Bugs
 None
 ## Technologies Used

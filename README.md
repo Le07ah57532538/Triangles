@@ -1,5 +1,5 @@
 # Triangle Tracer
-#### This about an application to help us know whether a triangle is isosceles,equilateral,scalene or NOT a triangle, {18th February,2019}
+#### This about an application to help us know whether a triangle is isosceles,equilateral,scalene or NOT a triangle, 18th February,2019
 #### By **LEAH GAKII**
 ## Description
 Triangle Tracker is an application to help us know whether a triangle is isosceles,equilateral,scalene or NOT a triangle. An isosceles triangle has only two sides with equal measurement while an equilateral triangle has all sides with equal measurement while has for a scalene all sides have different measurements.

@@ -1,9 +1,10 @@
-function tap() {
-var functiona = document.getElementsById("data1").value;
-var functionb = document.getElementsById("data2").value;
-var functionc = document.getElementsById("data3").value;
-
-
+var triangleTracker = function() {
+var a = parseFloat(prompt("enter the length"));
+var b = parseFloat(prompt("enter the height"));
+var c = parseFloat(prompt("enter the hypo"));
+if(isNaN(a)===true || isNaN(b)===true || isNaN(c)===true || a<=0 || b<=0 || c<=0) {
+  alert("enter a correct number")
+}
 else if((a + b) <=c || (b + c) <=a || (a + c) <=b) {
   alert("not a triangle");
 }
